@@ -2,8 +2,9 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Logistics-Sector-blue?style=flat-square&logo=git-lfs" />
-  <img src="https://img.shields.io/badge/Python-Lover-yellow?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Learning-Always-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-Student-yellow?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Spotify-Lo--Fi-1DB954?style=flat-square&logo=spotify" />
+  <img src="https://img.shields.io/badge/Coffee-Addict-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" />
 </p>
 
 ---
