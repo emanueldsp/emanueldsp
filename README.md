@@ -1,39 +1,66 @@
-# Olá, Mundo! Me chamo Emanuel! 👋
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw67mUXyUu6O7vS6o7/giphy.gif" width="35"> Olá, eu sou o Emanuel!
 
-- 🔭 **Atualmente:** Trabalhando com logística e otimização de processos.
-- 🌱 **Estudando:** Python para automação e análise de dados.
+<p align="left">
+  <img src="https://img.shields.io/badge/Logistics-Sector-blue?style=flat-square&logo=git-lfs" />
+  <img src="https://img.shields.io/badge/Python-Lover-yellow?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Learning-Always-success?style=flat-square" />
+</p>
 
-## 📊 Estatísticas do GitHub
+---
 
-<div align="center">
-  <a href="https://github.com/emanueldsp">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emanueldsp&theme=tokyo-night&area=true&hide_border=true" />
-  </a>
-</div>
+### ⚡ Sobre Mim
 
-## 🚀 Tecnologias e Ferramentas
+* 🚛 **Logística:** Especialista em processos de movimentação e otimização.
+* 🐍 **Python:** Transformando planilhas chatas em automações inteligentes.
+* 🎯 **Objetivo:** Unir a tecnologia com a eficiência operacional.
 
-<div align="center">
-  <img alt="Emanuel-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Emanuel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Emanuel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Emanuel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Emanuel-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+---
+
+### 🛠️ Toolbox (Minhas Ferramentas)
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `Python` `C#` `JavaScript` |
+| **Frontend** | `HTML5` `CSS3` |
+| **Dados** | `Pandas` `Excel Avançado` |
+
+<br>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,github,vscode,pycharm" />
 </div>
 
 ---
 
-## 📫 Conecte-se comigo
+### 📈 Produtividade & Status
 
-<div align="center">
-  <a href="mailto:emanuel.dsp2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/emanuel_sccp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/SEU_LINK" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emanueldsp&theme=dracula&area=true&hide_border=true&custom_title=Atividade%20de%20Contribuição" />
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsp&layout=compact&theme=dracula&hide_border=true" />
+    </td>
+    <td width="50%">
+       <img src="https://github-readme-stats.vercel.app/api?username=emanueldsp&show_icons=true&theme=dracula&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤝 Vamos conversar?
+
+<div align="left">
+  <a href="mailto:emanuel.dsp2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/SEU_USER" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/emanuel_sccp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 <br>
 
-<div align="center">
+<p align="center">
   <img src="https://github.com/emanueldsp/emanueldsp/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
+</p>
