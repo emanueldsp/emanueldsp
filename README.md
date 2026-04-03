@@ -25,7 +25,7 @@
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | `Python` `C#` `JavaScript` |
+| **Linguagens** | `Python` `C#` |
 | **Frontend** | `HTML5` `CSS3` |
 | **Dados** | `Pandas` `Excel Avançado` |
 
