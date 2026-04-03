@@ -27,7 +27,7 @@
 <br>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,github,vscode,pycharm,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,anaconda,cs,html,css,github,vscode,visualstudio,pycharm,windows,linux" />
 </div>
 
 ---
