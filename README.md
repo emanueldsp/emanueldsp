@@ -5,6 +5,10 @@
   <img src="https://img.shields.io/badge/Python-Student-yellow?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/Spotify-Lo--Fi-1DB954?style=flat-square&logo=spotify" />
   <img src="https://img.shields.io/badge/Coffee-Addict-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/Faith-Jesus%20Christ-blueviolet?style=flat-square&logo=christianity&logoColor=white" />
+<img src="https://img.shields.io/badge/Religion-Baptist-darkblue?style=flat-square&logo=church&logoColor=white" />
+<img src="https://img.shields.io/badge/Saved-By%20Grace-white?style=flat-square&logo=cross&logoColor=black" />
 </p>
 
 ---
