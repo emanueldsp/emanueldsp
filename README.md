@@ -7,8 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/emanueldsp">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=emanueldsp&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Emanuel Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldsp&layout=compact&langs_count=7&theme=dark" alt="Emanuel Languages" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emanueldsp&theme=tokyo-night&area=true&hide_border=true" />
   </a>
 </div>
 
